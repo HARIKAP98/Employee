@@ -71,14 +71,3 @@ public class EmployeeService {
 	}
 }
 
-/*
-<form:form method="post" modelAttribute="employee">
-<form:hidden path="empid"/>
-<fieldset class="form-group">
-<form:label path="empname">Employee Name </form:label> <input type="text" path="empname" name="empname"/> <br><br>
-<form:label path="salary">Employee Salary </form:label> <input type="text" path="salary" name="salary"/><br><br>
-<form:label path="experience">Employee Experience </form:label> <input type="text" path="experience" name="experience"/><br><br>
-</fieldset>
-<button type="submit" class="btn btn-success">Create</button>
-</form:form>
-*/
